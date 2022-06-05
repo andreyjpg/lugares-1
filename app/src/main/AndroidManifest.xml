@@ -11,12 +11,7 @@
         android:theme="@style/Theme.Lugares">
         <activity
             android:name=".PrincipalActivity"
-            android:exported="true"
-            android:label="@string/title_activity_principal"
-            android:theme="@style/Theme.Lugares.NoActionBar" />
-        <activity
-            android:name=".Principal"
-            android:exported="true"
+            android:exported="false"
             android:label="@string/title_activity_principal"
             android:theme="@style/Theme.Lugares.NoActionBar" />
         <activity
