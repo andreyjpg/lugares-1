@@ -3,26 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.259375" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2604166666666667" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2604166666666667" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/drawable/side_nav_bar.xml" value="0.2604166666666667" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/layout/fragment_lugar.xml" value="0.24791666666666667" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/layout/fragment_update_lugar.xml" value="0.2640625" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/layout/lugar_fila.xml" value="0.33" />
-        <entry key="..\:/Users/andre/Desktop/Fidelitas/lugares/app/src/main/res/menu/delete_menu.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3359375" />
-        <entry key="app/src/main/res/layout/activity_principal.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/app_bar_principal.xml" value="0.31203703703703706" />
-        <entry key="app/src/main/res/layout/content_principal.xml" value="0.31203703703703706" />
-        <entry key="app/src/main/res/layout/fragment_add_lugar.xml" value="0.28541666666666665" />
-        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.31203703703703706" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.31203703703703706" />
-        <entry key="app/src/main/res/layout/fragment_lugar.xml" value="0.24351851851851852" />
-        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.31203703703703706" />
-        <entry key="app/src/main/res/layout/nav_header_principal.xml" value="0.31203703703703706" />
-        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.29270833333333335" />
-        <entry key="app/src/main/res/menu/principal.xml" value="0.3824074074074074" />
+        <entry key="..\:/Users/andre/Desktop/lugares/app/src/main/res/layout/activity_main.xml" value="0.3828125" />
+        <entry key="..\:/lugares-1/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/lugares-1/app/src/main/res/layout/activity_principal.xml" value="0.22826086956521738" />
+        <entry key="..\:/lugares-1/app/src/main/res/layout/content_principal.xml" value="0.22826086956521738" />
+        <entry key="..\:/lugares-1/app/src/main/res/menu/activity_main_drawer.xml" value="0.11302083333333333" />
+        <entry key="..\:/lugares-1/app/src/main/res/menu/principal.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_principal.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/app_bar_principal.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/content_principal.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/nav_header_principal.xml" value="0.1953125" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/menu/activity_principal_drawer.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/menu/principal.xml" value="0.1953125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21145833333333333" />
       </map>
     </option>
   </component>
